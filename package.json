@@ -1,0 +1,23 @@
+{
+  "name": "cvicenie700",
+  "version": "1.0.0",
+  "description": "popis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tibordoma/cvicenie700.git"
+  },
+  "author": "Kolektiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tibordoma/cvicenie700/issues"
+  },
+  "homepage": "https://github.com/tibordoma/cvicenie700#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
